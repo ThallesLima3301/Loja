@@ -2,6 +2,7 @@
 Contexo: 
 criando uma loja do zero 
 - começando pelo back end
+- 
 GET /api/blogs/:id
 Descrição: Retorna um blog específico com base no ID.
 Exemplo de Uso
